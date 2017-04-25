@@ -1,0 +1,6 @@
+admin
+root
+weblogic
+dad
+dada
+dakdoq
